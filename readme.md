@@ -19,6 +19,9 @@ This is my professional profile on GitHub
   ![TypeScript](https://github.com/luisFelipeqd/luisFelipeqd/assets/115251147/a62d2147-4925-4783-a91e-6891d5a9bf75)<br>
   ![Sass](https://github.com/luisFelipeqd/luisFelipeqd/assets/115251147/82f4cb95-a415-4fa7-b6b2-b18c8107f180)<br>
   ![Bootstrap](https://github.com/luisFelipeqd/luisFelipeqd/assets/115251147/5cbe59ab-19d0-4ef6-8a93-a196cbfa7ed0)<br>
+  ![React](https://github.com/luisFelipeqd/luisFelipeqd/assets/115251147/fbae11d7-672f-4496-a2b2-f38030476138)<br>
+  ![Node](https://github.com/luisFelipeqd/luisFelipeqd/assets/115251147/af90e398-0d48-4044-a774-b26184e11ce5)<br>
+  ![PostgreSQL](https://github.com/luisFelipeqd/luisFelipeqd/assets/115251147/d1de75f4-3da3-4604-884c-7d5b45b37466)<br>
 
 
 
