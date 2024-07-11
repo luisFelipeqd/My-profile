@@ -26,7 +26,5 @@ This is my professional profile on GitHub
   ![Sequelize](https://github.com/luisFelipeqd/luisFelipeqd/assets/115251147/9a3e1968-f0fa-4748-8bc4-92d9b4ec7ddd)
   ![PostgreSQL](https://github.com/luisFelipeqd/luisFelipeqd/assets/115251147/d1de75f4-3da3-4604-884c-7d5b45b37466)
 
-
-
   
 </div>
