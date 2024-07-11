@@ -5,8 +5,8 @@ This is my professional profile on GitHub
 <br>
 
 <div>
- ⭐ I'm a Junior Web Developer<br>
- 📖 Nowadays I'm focused on learning Full-stack programming
+ ⭐ I'm a Web and Desktop Developer!<br>
+ 📖 Nowadays I'm focused on learning Delphi and JS Frameworks!
 </div>
 
 <br>
